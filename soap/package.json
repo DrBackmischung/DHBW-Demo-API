@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "api.js",
   "scripts": {
-    "start": "node api.js"
+    "start": "node api.js",
+    "start_test": "node testclient.js"
   },
   "keywords": [],
   "author": "",
