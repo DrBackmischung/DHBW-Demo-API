@@ -1,0 +1,17 @@
+{
+  "name": "soap",
+  "version": "1.0.0",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "soap": "^1.1.7",
+    "xml2js": "^0.6.2"
+  }
+}
